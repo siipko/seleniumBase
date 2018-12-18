@@ -43,14 +43,42 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1824967017">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1495" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1495" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DatePicketTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FormTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="132">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,10 +87,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FormTests.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/MenuPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+            <state relative-caret-position="300">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,60 +99,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Base/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/FormPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="219">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TableTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GoogleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Slider/SliderTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Slider/SliderWithAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2465#2466#0" expanded="true" />
+                <element signature="e#2511#2512#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,14 +144,18 @@
         <option value="$PROJECT_DIR$/src/test/java/SliderWithAction.java" />
         <option value="$PROJECT_DIR$/src/test/java/TableTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/DragAndDrop.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FormTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Slider/SliderTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GoogleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Slider/SliderWithAction.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DatePicketTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AlertTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WindowsTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DatePicketTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Pages/FormPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FormTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Pages/MenuPage.java" />
       </list>
     </option>
   </component>
@@ -181,10 +167,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -361,6 +347,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -378,6 +365,21 @@
               <item name="szkoleniewaw" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkoleniewaw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="szkoleniewaw" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkoleniewaw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="szkoleniewaw" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="szkoleniewaw" type="b2602c69:ProjectViewProjectNode" />
@@ -419,11 +421,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -449,7 +451,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in szkoleniewaw">
+  <component name="RunManager" selected="JUnit.FormTests.fillFormTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -462,10 +464,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in szkoleniewaw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AlertTests.confirmAlertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="szkoleniewaw" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="AlertTests" />
+      <option name="METHOD_NAME" value="confirmAlertTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertTests.promptAlertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="szkoleniewaw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlertTests" />
+      <option name="METHOD_NAME" value="promptAlertTest" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -475,17 +490,6 @@
       <module name="szkoleniewaw" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DatePicketTest" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DatePicketTest.datePickerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="szkoleniewaw" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DatePicketTest" />
-      <option name="METHOD_NAME" value="datePickerTest" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -502,11 +506,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SliderWithAction.moveSliderByPixelsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WindowsTests.simpleAlertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="szkoleniewaw" />
-      <option name="PACKAGE_NAME" value="Slider" />
-      <option name="MAIN_CLASS_NAME" value="Slider.SliderWithAction" />
-      <option name="METHOD_NAME" value="moveSliderByPixelsTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WindowsTests" />
+      <option name="METHOD_NAME" value="simpleAlertTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -537,19 +541,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FormTests.fillFormTest" />
-      <item itemvalue="JUnit.DatePicketTest.datePickerTest" />
-      <item itemvalue="JUnit.SliderWithAction.moveSliderByPixelsTest" />
-      <item itemvalue="JUnit.All in szkoleniewaw" />
+      <item itemvalue="JUnit.AlertTests.promptAlertTest" />
+      <item itemvalue="JUnit.AlertTests.confirmAlertTest" />
+      <item itemvalue="JUnit.WindowsTests.simpleAlertTest" />
       <item itemvalue="JUnit.DatePicketTest" />
+      <item itemvalue="JUnit.FormTests.fillFormTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in szkoleniewaw" />
-        <item itemvalue="JUnit.DatePicketTest.datePickerTest" />
-        <item itemvalue="JUnit.DatePicketTest" />
         <item itemvalue="JUnit.FormTests.fillFormTest" />
-        <item itemvalue="JUnit.SliderWithAction.moveSliderByPixelsTest" />
+        <item itemvalue="JUnit.DatePicketTest" />
+        <item itemvalue="JUnit.WindowsTests.simpleAlertTest" />
+        <item itemvalue="JUnit.AlertTests.confirmAlertTest" />
+        <item itemvalue="JUnit.AlertTests.promptAlertTest" />
       </list>
     </recent_temporary>
   </component>
@@ -564,27 +568,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DatePicketTest_datePickerTest - 2018.12.18 at 00h 08m 04s.xml">
-      <configuration name="DatePicketTest.datePickerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DatePicketTest_datePickerTest - 2018.12.18 at 00h 09m 14s.xml">
-      <configuration name="DatePicketTest.datePickerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DatePicketTest_datePickerTest - 2018.12.18 at 00h 09m 54s.xml">
-      <configuration name="DatePicketTest.datePickerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DatePicketTest_datePickerTest - 2018.12.18 at 00h 10m 17s.xml">
-      <configuration name="DatePicketTest.datePickerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DatePicketTest - 2018.12.18 at 00h 16m 01s.xml">
-      <configuration name="DatePicketTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DatePicketTest_datePickerTest - 2018.12.18 at 00h 17m 24s.xml">
-      <configuration name="DatePicketTest.datePickerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DatePicketTest_datePickerTest - 2018.12.18 at 00h 18m 12s.xml">
-      <configuration name="DatePicketTest.datePickerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DatePicketTest_datePickerTest - 2018.12.18 at 00h 18m 56s.xml">
       <configuration name="DatePicketTest.datePickerTest" configurationId="JUnit" />
     </history-entry>
@@ -594,14 +577,36 @@
     <history-entry file="All_in_szkoleniewaw - 2018.12.18 at 00h 23m 24s.xml">
       <configuration name="All in szkoleniewaw" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AlertTests_simpleAlertTest - 2018.12.18 at 08h 52m 51s.xml">
+      <configuration name="AlertTests.simpleAlertTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AlertTests_confirmAlertTest - 2018.12.18 at 08h 54m 22s.xml">
+      <configuration name="AlertTests.confirmAlertTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WindowsTests_simpleAlertTest - 2018.12.18 at 08h 59m 03s.xml">
+      <configuration name="WindowsTests.simpleAlertTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatePicketTest - 2018.12.18 at 09h 25m 32s.xml">
+      <configuration name="DatePicketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormTests_fillFormTest - 2018.12.18 at 11h 14m 51s.xml">
+      <configuration name="FormTests.fillFormTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormTests_fillFormTest - 2018.12.18 at 11h 16m 15s.xml">
+      <configuration name="FormTests.fillFormTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FormTests_fillFormTest - 2018.12.18 at 11h 17m 41s.xml">
+      <configuration name="FormTests.fillFormTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.17583893" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.14161074" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -609,8 +614,8 @@
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.2609929" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.23687944" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.35886526" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.38723403" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -670,9 +675,27 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/AlertTests.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/AlertTests.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Pages/FormPage.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/FormTests.java</url>
-          <line>14</line>
+          <line>10</line>
           <properties class="FormTests" method="fillFormTest">
             <option name="EMULATED" value="true" />
           </properties>
@@ -690,10 +713,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EasyTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/DragAndDrop.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/WindowsTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-end-line="14" />
+        <state relative-caret-position="332">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Slider/SliderTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -702,48 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Slider/SliderWithAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="-25">
           <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DatePicketTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Base/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Slider/SliderTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TableTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -752,7 +747,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="400">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -760,10 +755,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DragAndDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DatePicketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AlertTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TableTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pages/FormPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2465#2466#0" expanded="true" />
+            <element signature="e#2511#2512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FormTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+        <state relative-caret-position="132">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pages/MenuPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
