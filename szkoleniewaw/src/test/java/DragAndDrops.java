@@ -1,11 +1,12 @@
 import Base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.parallel.Execution;
+import org.junit.jupiter.api.parallel.ExecutionMode;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-
-public class DragAndDrop extends BaseTest {
+public class DragAndDrops extends BaseTest {
 
     @Test
     public void dragAndDropTest() {

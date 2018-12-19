@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: Slider.SliderTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.376 s - in Slider.SliderTests
+moveSliderTest  Time elapsed: 8.376 s

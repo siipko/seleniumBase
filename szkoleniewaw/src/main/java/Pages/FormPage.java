@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import java.util.Random;
 
-public class FormPage {
+public class FormPage extends BasePage{
 
     @FindBy(id = "inputFirstName3")
     private WebElement firstName;
@@ -47,10 +47,8 @@ public class FormPage {
     @FindBy(id = "chooseFile")
     private WebElement chooseFile;
 
-    WebDriver driver;
-
     public FormPage(WebDriver driver) {
-        this.driver = driver;
+        super(driver);
         PageFactory.initElements(driver, this);
     }
 

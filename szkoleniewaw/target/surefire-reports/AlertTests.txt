@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: AlertTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.959 s - in AlertTests
+confirmAlertTest  Time elapsed: 4.959 s

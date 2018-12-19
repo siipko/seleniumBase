@@ -1,6 +1,8 @@
 import Base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.parallel.Execution;
+import org.junit.jupiter.api.parallel.ExecutionMode;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
@@ -8,7 +10,8 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.time.format.DateTimeFormatter;
 
-public class DatePicketTest extends BaseTest {
+@Execution(ExecutionMode.CONCURRENT)
+public class DatePickerTest extends BaseTest {
 
     @Test
     public void datePickerTest() {

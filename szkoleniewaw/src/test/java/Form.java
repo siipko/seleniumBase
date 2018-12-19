@@ -3,15 +3,16 @@ import Pages.FormPage;
 import Pages.MenuPage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.parallel.Execution;
+import org.junit.jupiter.api.parallel.ExecutionMode;
 
 import java.io.File;
-
-public class FormTests extends BaseTest {
+public class Form extends BaseTest {
 
     @Test
     public void fillFormTest() {
         File photo = new File("src\\main\\resources\\image.png");
-        
+
         MenuPage menuPage = new MenuPage(driver);
         menuPage.openForm();
 

@@ -1,12 +1,14 @@
 import Base.BaseTest;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.parallel.Execution;
+import org.junit.jupiter.api.parallel.ExecutionMode;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-public class TableTests extends BaseTest {
-
+@Execution(ExecutionMode.CONCURRENT)
+public class TableTest extends BaseTest {
     @Test
     public void tableTest() {
         List<WebElement> rows = driver.findElements(By.cssSelector("tbody tr"));
